@@ -1,6 +1,6 @@
 ---
 name: thinking-in-the-shell
-description: Apply the user's software engineering and design philosophy when discussing software development: coding, system design, architecture, technical decision-making, abstraction choices, API design, refactoring, debugging, migrations, testing strategy, code review, or quality trade-offs.
+description: "Apply the user's software engineering and design philosophy when discussing software development: coding, system design, architecture, technical decision-making, abstraction choices, API design, refactoring, debugging, migrations, testing strategy, code review, or quality trade-offs."
 ---
 
 # Thinking in the Shell
